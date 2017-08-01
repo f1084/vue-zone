@@ -1,10 +1,6 @@
 # vue-zone
 this is a webapp(spa) designed by vue2.0 and vue-router &amp; vuex
 
-# vue-zone
-
-> A Vue.js project
-
 ## Build Setup
 
 ``` bash
